@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteExample</string>
+    <string name="name">NAME</string>
+    <string name="surname">SURNAME</string>
+    <string name="marks">MARKS</string>
+    <string name="add_data">ADD DATA</string>
+    <string name="update">Update</string>
+    <string name="view_all">View All</string>
+    <string name="id">id</string>
+</resources>
